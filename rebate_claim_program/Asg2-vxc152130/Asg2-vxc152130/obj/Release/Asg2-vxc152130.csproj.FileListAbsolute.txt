@@ -1,0 +1,10 @@
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\bin\Release\Asg2-vxc152130.exe.config
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\bin\Release\Asg2-vxc152130.exe
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\bin\Release\Asg2-vxc152130.pdb
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2-vxc152130.csprojResolveAssemblyReference.cache
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2_vxc152130.FormRebate.resources
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2_vxc152130.Properties.Resources.resources
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2-vxc152130.csproj.GenerateResource.Cache
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2-vxc152130.csproj.CoreCompileInputs.cache
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2-vxc152130.exe
+C:\Users\Shruti Poonam\source\repos\Asg2-vxc152130\Asg2-vxc152130\obj\Release\Asg2-vxc152130.pdb

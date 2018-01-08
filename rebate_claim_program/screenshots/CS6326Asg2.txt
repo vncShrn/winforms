@@ -1,0 +1,5 @@
+John 	Thomas		Line 1		Dallas	TX	75082-1122	(214)-436-1137	john.thomas@hh.com	True	09/24/2017	23:49:27	23:49:48
+Vincy	Shrine		3301 NorthHampton Rd	Apt 235	Richardson	TX	76889	214 436 1134	vincy.shrine@gmail.com	True	09/24/2017	20:40:02	20:40:40
+Christy	Paul	A	No. 7 Type 5 Quarters	Harbour Estate	Tuticorin	TN	628004	+91 9443528554	acpaul8@gmail.com	True	03/20/2013	20:44:12	20:45:06
+Vincy Shrine	Christy Paul		3344 W Renner Road Apt 244		Dallas	TX	750332234	+1 214 445 2333	vxc152130@utdallas.edu	True	03/24/2017	21:10:57	21:12:16
+Alicia	Keys		Line 1	Line 2	Lewisville	FL	33445	2144351122	alicia@utd.edu	True	09/24/2017	21:20:53	21:22:40
