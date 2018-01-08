@@ -1,0 +1,9 @@
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\bin\Debug\Asg3-vxc152130.exe.config
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\bin\Debug\Asg3-vxc152130.exe
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\bin\Debug\Asg3-vxc152130.pdb
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3_vxc152130.Form1.resources
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3_vxc152130.Properties.Resources.resources
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3-vxc152130.csproj.GenerateResource.Cache
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3-vxc152130.csproj.CoreCompileInputs.cache
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3-vxc152130.exe
+c:\users\shruti poonam\source\repos\Asg3-vxc152130\Asg3-vxc152130\obj\Debug\Asg3-vxc152130.pdb
